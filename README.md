@@ -17,7 +17,7 @@ The optimisation step is carried out using two Python libraries:
 # Getting Started
 To replicate and experiment with the project, follow these steps:
 * Data Import: Start by importing the feather files containing the machine input data.
-* Model Building: test different model fitting approaches including linear and polynomial regression, to characterise machine behavior.
+* Model Building: test different model fitting approaches including linear and polynomial regression, to characterise machine behaviour.
 * Optimisation: Use the identified machine models to perform optimisation tasks to achieve the desired machine goods per hour while minimizing power consumption.
 * Dependencies: Ensure you have all the necessary dependencies, including the Gurobi optimization library, installed.
   
